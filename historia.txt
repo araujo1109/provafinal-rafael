@@ -1,0 +1,4 @@
+
+uhistaria cadstro de cliente
+
+o usuario/cliente de prestar informaçoes basiacas como rg e cpf escolher o serviço e data do atendimento confirmar a forma de pagamento eaguardar o serviço.
